@@ -1,4 +1,5 @@
 # Wine Quality Classifier WebApp using Streamlit
+you can access the app from [link](https://share.streamlit.io/harsh204016/wine-quality-classifier/main/app.py)
 
 The wine dataset is a classic and very easy multi-class classification dataset.
 
@@ -9,4 +10,4 @@ The wine dataset is a classic and very easy multi-class classification dataset.
 
 
 
-have taken reference from: https://towardsdatascience.com/pycaret-and-streamlit-how-to-create-and-deploy-data-science-web-app-273d205271a3
+Take reference from [link](https://www.kaggle.com/harsh2040/wine-quality-check-with-pycaret?scriptVersionId=72893374) to build your own. 
